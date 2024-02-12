@@ -40,11 +40,11 @@ The Extra Trees Regressor is used to find the important features in the dataset
 The data is then split with 20% allocated for testing data that will be used to evaluate the final model’s performance after model selection and the rest of the data 80% us allocated for training data that is used to evaluate model performance during training.
 ### Model Selection
 In this project, the target variable , price, is a continuous variable. Hence 5 different ML regression algorithms were used for building.
-> Linear Regression
-> Decision Trees
-> Extra Trees 
-> Random Forest
-> XGBoost
+* Linear Regression
+* Decision Trees
+* Extra Trees 
+* Random Forest
+* XGBoost
 
 By comparing the model's performances, the Random Forest regressionmodel was selected as the ideal model. 
 # Model Performances
