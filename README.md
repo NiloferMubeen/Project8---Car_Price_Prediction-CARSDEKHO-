@@ -8,7 +8,7 @@ The main objective of this project is to build a data science model to accuratel
 5. Scikit learn (Regression Algorithms, Label Encoder)
 6. Streamlit
 # Data Preprocessing
-* The data collected from the cardekho website in the form of dictionaries is preprocessed and the relevant features were collected from the data set.
+* The data collected from the cardekho website in the form of dictionaries was preprocessed and the relevant features were collected from the data set.
 * The dataset was checked for nulls and duplicates. The duplicates were dropped and null values were replaced with the correct values by analysing the dataset.
 * Features like mileage, engine displacement, kms driven were formatted to numercial columns
 # Exploratory Data Analysis 
