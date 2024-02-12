@@ -51,5 +51,5 @@ By comparing the model's performances, the Random Forest regressionmodel was sel
 ![image](https://github.com/NiloferMubeen/Project8---Car_Price_Prediction-CARSDEKHO-/assets/143819770/fb9a036d-ba6a-4853-ba2e-4531766947ab)
 
 # HyperParameter Tuning
-Comparitively the Random Forest Model gave a better R2 score. Hence after HyperParameter tuning the model using the Random Search CV, the model's r2 score increased and the MSE decreased to some extent. 
+Comparitively the Random Forest Model gave a better R2 score. Hence after HyperParameter tuning the model using the Random Search CV, the model's r2 score increased and the MSE decreased to some extent. The model was then saved as a pickle file and was deployed using Streamlit Apllication to predict the Prices.
   
