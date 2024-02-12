@@ -21,7 +21,7 @@ The main objective of this project is to build a data science model to accuratel
   ![image](https://github.com/NiloferMubeen/Project8---Car_Price_Prediction-CARSDEKHO-/assets/143819770/45ad6809-3b1d-4f5d-88fb-8e11bc7e6bda)
 # Label Encoding
 Label Encoding was used to encode all the categorical columns and the final dataset was saved as a csv file.
-# Treating Skewness and Outliers
+# Skewness and Outliers Treatment 
 * Most of the features were positively skewed. Hence the Cuberoot transformation was used to fix the skewness in Data.
 * The IQR method was used to fix the outliers in the data
 ### Skewness before and after Transformation
@@ -29,7 +29,7 @@ Label Encoding was used to encode all the categorical columns and the final data
 
 ![image](https://github.com/NiloferMubeen/Project8---Car_Price_Prediction-CARSDEKHO-/assets/143819770/5903e096-dca1-45e2-854e-492e16f9f729)
 
-### Before and After the treat emnt of Outliers
+### Before and After the treatment of Outliers
 ![image](https://github.com/NiloferMubeen/Project8---Car_Price_Prediction-CARSDEKHO-/assets/143819770/224ee59f-691c-4ecb-9c1a-eaff07a9644c)
 
 ![image](https://github.com/NiloferMubeen/Project8---Car_Price_Prediction-CARSDEKHO-/assets/143819770/4a2f802b-e29a-4fc9-92b8-d274de0fc7f5)
