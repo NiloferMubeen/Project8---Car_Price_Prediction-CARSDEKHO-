@@ -1,5 +1,5 @@
 # CARDEKHO Used Car Price Prediction
-The main objective of this project is to build a data science model to accuratelt predict the used car prices by analyzing the features like model, age of car, kms_driven, mileage, engine displacement etc.
+The main objective of this project is to build a data science model to accurately predict the used car prices by analyzing the features like model, age of car, kms_driven, mileage, engine displacement etc.
 # Tools Used
 1. Python
 2. Pandas, Numpy
